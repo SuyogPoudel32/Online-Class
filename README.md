@@ -35,10 +35,10 @@ This is a command-line based **Online Examination System** built in Python. It p
 
 ## 🧪 How to Run
 
-```bash
 # Make sure Python is installed
 python main.py or directly with Vscode
 
+---
 
 
 🏆 Future Enhancements
