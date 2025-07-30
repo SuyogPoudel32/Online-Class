@@ -1,0 +1,16 @@
+[
+  {
+    "username": "$2b$12$NJ9YVviMIGHabA88cF9wxeBvavADo1jbUQk.7jaiV4wGB9i3i4aAq",
+    "password": "$2b$12$6yWgQlQgKSZlM7cseQ9TY.MZHr.g/XGVL.8XhIxPAnColBt3rJ6sq", 
+    "role": "admin",
+    "hidden": 12,
+    "hidden2":"admin1"
+  },
+  {
+    "username": "$2b$12$sUzF7Aks0PswdB1uLsZSh.GjFGr0s.WRYhhv6nzTSW8eemKvzIzMW",
+    "password": "$2b$12$vQ6h.KtDkhdVMNvh9P8v7.xtkB9IKbVxig0G94DkVW2bs7tyUNz4K", 
+    "role": "student",
+    "hidden": 1,
+    "hidden2": "student1"
+  }
+]

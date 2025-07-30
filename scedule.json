@@ -1,0 +1,23 @@
+[
+    {
+        "exam_id": "EX001",
+        "title": "Python Basics Test",
+        "date": "2025-07-28",
+        "start_time": "10:00 AM",
+        "duration_minutes": 30
+    },
+    {
+        "exam_id": "EX002",
+        "title": "JavaScript Fundamentals",
+        "date": "2025-07-29",
+        "start_time": "1:00 PM",
+        "duration_minutes": 45
+    },
+    {
+        "exam_id": "EX003",
+        "title": "Delete data",
+        "date": "2025-07-30",
+        "start_time": "02 AM",
+        "duration_minutes": 45
+    }
+]

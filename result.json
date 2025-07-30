@@ -1,0 +1,110 @@
+[
+    {
+        "username": "student1",
+        "exam_id": "EX001",
+        "score": 8,
+        "total_questions": 10,
+        "correct_answers": 8,
+        "incorrect_answers": 2,
+        "percentage": 80
+    },
+        {
+        "username": "student1",
+        "exam_id": "EX003",
+        "score": 8,
+        "total_questions": 10,
+        "correct_answers": 8,
+        "incorrect_answers": 2,
+        "percentage": 85
+    },
+        {
+        "username": "student1",
+        "exam_id": "EX003",
+        "score": 8,
+        "total_questions": 10,
+        "correct_answers": 8,
+        "incorrect_answers": 2,
+        "percentage": 90
+    },
+    {
+        "username": "student1",
+        "exam_id": "EX003",
+        "score": 2,
+        "total_questions": 2,
+        "correct_answers": 2,
+        "incorrect_answers": 0,
+        "percentage": 100
+    },
+    {
+        "username": "student1",
+        "exam_id": "EX003",
+        "score": 2,
+        "total_questions": 2,
+        "correct_answers": 2,
+        "incorrect_answers": 0,
+        "percentage": 100
+    },
+    {
+        "username": "student2",
+        "exam_id": "EX002",
+        "score": 9,
+        "total_questions": 10,
+        "correct_answers": 9,
+        "incorrect_answers": 1,
+        "percentage": 90
+    },
+    {
+        "username": "student3",
+        "exam_id": "EX004",
+        "score": 10,
+        "total_questions": 10,
+        "correct_answers": 10,
+        "incorrect_answers": 0,
+        "percentage": 100
+    },
+    {
+        "username": "student4",
+        "exam_id": "EX005",
+        "score": 7,
+        "total_questions": 10,
+        "correct_answers": 7,
+        "incorrect_answers": 3,
+        "percentage": 70
+    },
+    {
+        "username": "student5",
+        "exam_id": "EX006",
+        "score": 6,
+        "total_questions": 10,
+        "correct_answers": 6,
+        "incorrect_answers": 4,
+        "percentage": 60
+    },
+    {
+        "username": "student6",
+        "exam_id": "EX007",
+        "score": 10,
+        "total_questions": 10,
+        "correct_answers": 10,
+        "incorrect_answers": 0,
+        "percentage": 100
+    },
+    {
+        "username": "student7",
+        "exam_id": "EX008",
+        "score": 5,
+        "total_questions": 10,
+        "correct_answers": 5,
+        "incorrect_answers": 5,
+        "percentage": 50
+    },
+    {
+        "username": "student8",
+        "exam_id": "EX009",
+        "score": 4,
+        "total_questions": 10,
+        "correct_answers": 4,
+        "incorrect_answers": 6,
+        "percentage": 40
+    }
+]

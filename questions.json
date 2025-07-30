@@ -1,0 +1,83 @@
+[
+    {
+        "exam_id": "EX001",
+        "questions": [
+            {
+                "question_id": "Q001",
+                "text": "What is the output of print(2 ** 3)?",
+                "options": [
+                    "5",
+                    "6",
+                    "8",
+                    "9"
+                ],
+                "correct_option": 2
+            },
+            {
+                "question_id": "Q002",
+                "text": "Which keyword is used to define a function in Python?",
+                "options": [
+                    "def",
+                    "func",
+                    "function",
+                    "lambda"
+                ],
+                "correct_option": 0
+            }
+        ]
+    },
+    {
+        "exam_id": "EX002",
+        "questions": [
+            {
+                "question_id": "Q001",
+                "text": "What is the output of print(2 ** 3)?",
+                "options": [
+                    "9",
+                    "10",
+                    "8",
+                    "90"
+                ],
+                "correct_option": 2
+            },
+            {
+                "question_id": "Q002",
+                "text": "Which keyword is used to define a function in JS?",
+                "options": [
+                    "def",
+                    "func",
+                    "function",
+                    "lambda"
+                ],
+                "correct_option": 2
+            }
+        ]
+    },
+    {
+        "exam_id": "EX003",
+        "questions": [
+            {
+                "question_id": "Q001",
+                "text": "This is for temp",
+                "options": [
+                    "O",
+                    "P",
+                    "S",
+                    "E"
+                ],
+                "correct_option": 1
+            },
+            {
+                "question_id": "Q002",
+                "text": "Oop is ",
+                "options": [
+                    "Oop",
+                    "Poo",
+                    "Soo",
+                    "Wr"
+                ],
+                "correct_option": 1
+            }
+        ]
+    }
+]
